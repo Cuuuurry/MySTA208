@@ -1,2 +1,2 @@
 # MySTA208
-My Own Notes on the introduction to machine learning
+My Own Notes and home assignments on the introduction to machine learning, a course presented by prof. James
